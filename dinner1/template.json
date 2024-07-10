@@ -1,0 +1,36 @@
+{
+    "id": "dinner",
+    "name": "Dinner1",
+    "owner": {
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "logo": "https://example.com/logo.png"
+    },
+    "description": "A seamless restaurant reservation application.",
+    "longDescription": "Dinner1 allows users to book tables at their favorite restaurants with ease. It offers real-time availability, personalized recommendations, and integration with popular calendars to ensure you never miss a reservation.",
+    "language": "en",
+    "categories": [
+      "food",
+      "productivity",
+      "lifestyle"
+    ],
+    "features": [
+      "authentication",
+      "catalog",
+      "chat",
+      "community",
+      "geolocation",
+      "offline",
+      "push-notifications"
+    ],
+    "integrations": [
+      "gmail",
+      "google-calendar",
+      "push-notifications"
+    ],
+    "screenshots": [
+      "https://example.com/screenshot1.png",
+      "https://example.com/screenshot2.png",
+      "https://example.com/screenshot3.png"
+    ]
+  }
