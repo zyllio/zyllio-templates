@@ -1,7 +1,40 @@
 {
   "templates": [
     {
-      "id": "dinner1"
+      "id": "dinner1",
+      "name": "Dinner1"
+    },
+    {
+      "id": "pizza",
+      "name": "Pizza!"
+    },
+    {
+      "id": "tasky",
+      "name": "Tasky"
+    },
+    {
+      "id": "movietek",
+      "name": "MovieTek"
+    },
+    {
+      "id": "salade",
+      "name": "Salade composée"
+    },
+    {
+      "id": "zinted",
+      "name": "Zinted"
+    },
+    {
+      "id": "taskz",
+      "name": "TaskZ"
+    },
+    {
+      "id": "quiz",
+      "name": "Quiz"
+    },
+    {
+      "id": "penz",
+      "name": "Penz !"
     }
   ]
 }
