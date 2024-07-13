@@ -3,9 +3,9 @@
     "name": "Dinner1",
     "url": "https://zyllio.app/apps/4e2285d0ed1a/index.html",
     "owner": {
-      "name": "Jane Smith",
-      "email": "jane.smith@example.com",
-      "logo": "https://example.com/logo.png"
+      "name": "Zyllio team",
+      "email": "contact@zyllio.com",
+      "logo": "https://zyllio.com"
     },
     "description": "A seamless restaurant reservation application.",
     "longDescription": "Dinner1 allows users to book tables at their favorite restaurants with ease. It offers real-time availability, personalized recommendations, and integration with popular calendars to ensure you never miss a reservation.",
