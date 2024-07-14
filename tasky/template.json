@@ -19,7 +19,7 @@
     "authentication",
     "catalog",
     "community",
-    "geolocation",
+    "geolocation"
   ],
   "integrations": [
   ],
