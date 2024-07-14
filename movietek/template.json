@@ -1,30 +1,28 @@
 {
-    "id": "movietek",
-    "name": "MovieTek",
-    "owner": {
-      "name": "Zyllio team",
-      "email": "contact@zyllio.com",
-      "logo": "https://zyllio.com"
-    },
-    "url": "https://zyllio.app/apps/ef4b853bf5cd/index.html",
-    "description": "An innovative movie playlist application.",
-    "longDescription": "MoviePlaylist allows users to create, share, and discover movie playlists. With personalized recommendations, social sharing features, and integration with popular streaming services, MoviePlaylist makes it easy to find and enjoy your favorite films.",
-    "language": "en",
-    "categories": [
-      "entertainment",
-      "social-networks"
-    ],
-    "features": [
-      "catalog",
-      "community",
-      "social-network"
-    ],
-    "integrations": [
-    ],
-    "screenshots": [
-      "https://example.com/screenshot1.png",
-      "https://example.com/screenshot2.png",
-      "https://example.com/screenshot3.png"
-    ]
-  }
-  
+  "id": "movietek",
+  "name": "MovieTek",
+  "owner": {
+    "name": "Zyllio team",
+    "email": "contact@zyllio.com",
+    "logo": "https://zyllio.com"
+  },
+  "url": "https://zyllio.app/apps/ef4b853bf5cd/index.html",
+  "description": "An simple movie playlist application.",
+  "longDescription": "MoviePlaylist allows users to create, share, and discover movie playlists. With personalized recommendations, social sharing features, and integration with popular streaming services, MoviePlaylist makes it easy to find and enjoy your favorite films.",
+  "language": "en",
+  "categories": [
+    "entertainment",
+    "social-networks"
+  ],
+  "features": [
+    "catalog",
+    "community",
+    "social-network"
+  ],
+  "integrations": [],
+  "screenshots": [
+    "https://example.com/screenshot1.png",
+    "https://example.com/screenshot2.png",
+    "https://example.com/screenshot3.png"
+  ]
+}

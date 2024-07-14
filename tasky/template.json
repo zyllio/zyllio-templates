@@ -1,0 +1,30 @@
+{
+  "id": "tasky",
+  "name": "Tasky",
+  "owner": {
+    "name": "Zyllio team",
+    "email": "contact@zyllio.com",
+    "logo": "https://zyllio.com"
+  },
+  "description": "A comprehensive project management app for home construction.",
+  "longDescription": "Tasky is designed to streamline the management of home construction projects. It allows users to track tasks, manage schedules, and collaborate with team members. With features like task assignments, progress tracking, and budget management, Tasky ensures that home construction projects are completed on time and within budget.",
+  "language": "en",
+  "categories": [
+    "business",
+    "productivity",
+    "tools"
+  ],
+  "features": [
+    "authentication",
+    "catalog",
+    "community",
+    "geolocation",
+  ],
+  "integrations": [
+  ],
+  "screenshots": [
+    "https://example.com/screenshot1.png",
+    "https://example.com/screenshot2.png",
+    "https://example.com/screenshot3.png"
+  ]
+}

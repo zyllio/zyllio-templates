@@ -1,0 +1,26 @@
+{
+  "id": "quiz",
+  "name": "Quiz",
+  "owner": {
+    "name": "Zyllio team",
+    "email": "contact@zyllio.com",
+    "logo": "https://zyllio.com"
+  },
+  "description": "A dynamic quiz app that tests users' knowledge with a series of questions and tracks their scores.",
+  "longDescription": "Quiz challenges users with a variety of questions across different topics. Users can take quizzes, receive instant feedback, and track their scores over time. The app features multiple question types, leaderboards, and social sharing to enhance the quiz experience.",
+  "language": "en",
+  "categories": [
+    "education",
+    "entertainment"
+  ],
+  "features": [
+    "community"
+  ],
+  "integrations": [
+  ],
+  "screenshots": [
+    "https://example.com/screenshot1.png",
+    "https://example.com/screenshot2.png",
+    "https://example.com/screenshot3.png"
+  ]
+}

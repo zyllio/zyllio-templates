@@ -1,0 +1,29 @@
+{
+  "id": "music-player",
+  "name": "Music player",
+  "url": "https://zyllio.app/apps/f4319bbf7f2b/index.html",
+  "owner": {
+    "name": "Zyllio team",
+    "email": "contact@zyllio.com",
+    "logo": "https://zyllio.com"
+  },
+  "description": "A unique music player app featuring exclusive tracks.",
+  "longDescription": "This template offers a premium listening experience with exclusive music tracks available only within the app. Enjoy high-quality audio, curated playlists, and personalized recommendations to discover new music and artists.",
+  "language": "en",
+  "categories": [
+    "music",
+    "entertainment",
+    "lifestyle"
+  ],
+  "features": [
+    "catalog",
+    "community"    
+  ],
+  "integrations": [    
+  ],
+  "screenshots": [
+    "https://example.com/screenshot1.png",
+    "https://example.com/screenshot2.png",
+    "https://example.com/screenshot3.png"
+  ]
+}

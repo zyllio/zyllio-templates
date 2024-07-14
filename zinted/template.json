@@ -1,0 +1,29 @@
+{
+  "id": "zinted",
+  "name": "Zinted",
+  "owner": {
+    "name": "Zyllio team",
+    "email": "contact@zyllio.com",
+    "logo": "https://zyllio.com"
+  },
+  "description": "A peer-to-peer marketplace app for buying and selling consumer products.",
+  "longDescription": "Zinted is a platform that enables individuals to buy and sell consumer products directly with each other. The app features user-friendly listings, secure payment options, and integrated shipping solutions to facilitate smooth transactions. With Zinted, users can find great deals on second-hand items and sell their own products easily.",
+  "language": "en",
+  "categories": [
+    "shopping",
+    "business",
+    "lifestyle"
+  ],
+  "features": [
+    "authentication",
+    "catalog",
+    "community",
+  ],
+  "integrations": [
+  ],
+  "screenshots": [
+    "https://example.com/screenshot1.png",
+    "https://example.com/screenshot2.png",
+    "https://example.com/screenshot3.png"
+  ]
+}

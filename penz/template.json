@@ -1,0 +1,30 @@
+{
+  "id": "penz",
+  "name": "Penz !",
+  "url": "https://zyllio.app/apps/9f241fc5ae95/index.html",
+  "owner": {
+    "name": "Zyllio team",
+    "email": "contact@zyllio.com",
+    "logo": "https://zyllio.com"
+  },
+  "description": "A comprehensive pen catalog app with cart and order functionalities.",
+  "longDescription": "PenZ offers a wide range of pens for users to browse, add to cart, and place orders. With detailed product descriptions, high-quality images, and an easy-to-use interface, PenCatalog ensures a seamless shopping experience for pen enthusiasts and professionals.",
+  "language": "en",
+  "categories": [
+    "shopping",
+    "business"
+  ],
+  "features": [
+    "authentication",
+    "catalog",
+    "purchases"
+  ],
+  "integrations": [
+    "gmail"
+  ],
+  "screenshots": [
+    "https://example.com/screenshot1.png",
+    "https://example.com/screenshot2.png",
+    "https://example.com/screenshot3.png"
+  ]
+}

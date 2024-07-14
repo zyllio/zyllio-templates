@@ -1,0 +1,27 @@
+{
+  "id": "taskz",
+  "name": "TaskZ",
+  "owner": {
+    "name": "Zyllio team",
+    "email": "contact@zyllio.com",
+    "logo": "https://zyllio.com"
+  },
+  "description": "A powerful task management app with task status, cancellation, and reassignment features.",
+  "longDescription": "TaskManagerPro helps users efficiently manage their tasks with features like task status updates, task cancellation, and reassignment. Whether you're managing personal tasks or team projects, TaskZ ensures that tasks are completed on time and helps in tracking progress, reassigning tasks, and cancelling them when necessary.",
+  "language": "en",
+  "categories": [
+    "productivity",
+    "business",
+    "tools"
+  ],
+  "features": [
+    "authentication",
+    "community",
+  ],
+  "integrations": [],
+  "screenshots": [
+    "https://example.com/screenshot1.png",
+    "https://example.com/screenshot2.png",
+    "https://example.com/screenshot3.png"
+  ]
+}
