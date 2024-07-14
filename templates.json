@@ -1,6 +1,10 @@
 {
   "templates": [
     {
+      "id": "blank",
+      "name": "Blank"
+    },
+    {
       "id": "dinner1",
       "name": "Dinner1"
     },

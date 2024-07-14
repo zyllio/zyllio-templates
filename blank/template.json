@@ -1,0 +1,24 @@
+{
+  "id": "blank",
+  "name": "Blank",
+  "url": "https://zyllio.app/apps/3c4f8804b143/index.html",
+  "owner": {
+    "name": "Zyllio team",
+    "email": "contact@zyllio.com",
+    "logo": "https://zyllio.com"
+  },
+  "description": "A blank template.",
+  "longDescription": "Start from a blank template if you are familiar with Zyllio Studio",
+  "language": "en",
+  "categories": [
+  ],
+  "features": [
+  ],
+  "integrations": [
+  ],
+  "screenshots": [
+    "https://example.com/screenshot1.png",
+    "https://example.com/screenshot2.png",
+    "https://example.com/screenshot3.png"
+  ]
+}

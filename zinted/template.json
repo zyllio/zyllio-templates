@@ -1,6 +1,7 @@
 {
   "id": "zinted",
   "name": "Zinted",
+  "url": "https://zyllio.app/apps/3968a8f39894/index.html",
   "owner": {
     "name": "Zyllio team",
     "email": "contact@zyllio.com",
@@ -17,10 +18,9 @@
   "features": [
     "authentication",
     "catalog",
-    "community",
+    "community"
   ],
-  "integrations": [
-  ],
+  "integrations": [],
   "screenshots": [
     "https://example.com/screenshot1.png",
     "https://example.com/screenshot2.png",
