@@ -29,9 +29,6 @@
     "google-calendar",
     "push-notifications"
   ],
-  "screenshots": [
-    "https://example.com/screenshot1.png",
-    "https://example.com/screenshot2.png",
-    "https://example.com/screenshot3.png"
+  "screenshots": [    
   ]
 }
