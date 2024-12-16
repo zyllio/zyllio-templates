@@ -1,0 +1,31 @@
+{
+  "id": "inventaire",
+  "name": "Inventaire",
+  "url": "https://zyllio.app/apps/c214180af186/index.html",
+  "owner": {
+    "name": "Zyllio team",
+    "email": "contact@zyllio.com",
+    "logo": "https://zyllio.com"
+  },
+  "description": "Centraliser et de simplifier la gestion des stocks de pièces détachées",
+  "longDescription": "Cette application permet de centraliser et de simplifier la gestion des stocks de pièces détachées tout en offrant une fonctionnalité de chat intégrée pour améliorer la communication en temps réel entre les utilisateurs.",
+  "language": "fr",
+  "categories": [
+    "logistics",
+    "inventory management",
+    "business tools"
+  ],
+  "features": [
+    "authentication",
+    "dynamic parts catalog",
+    "real-time stock updates",
+    "team collaboration",
+    "integrated chat support"  
+  ],
+  "integrations": [],
+  "screenshots": [
+    "https://example.com/screenshot1.png",
+    "https://example.com/screenshot2.png",
+    "https://example.com/screenshot3.png"
+  ]
+}

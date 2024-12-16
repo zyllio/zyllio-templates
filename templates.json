@@ -9,6 +9,10 @@
       "name": "Dinner1"
     },
     {
+      "id": "inventaire",
+      "name": "Inventaire"
+    },
+    {
       "id": "pizza",
       "name": "Pizza!"
     },
