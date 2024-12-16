@@ -17,10 +17,10 @@
   ],
   "features": [
     "authentication",
-    "dynamic parts catalog",
-    "real-time stock updates",
+    "catalog",
+    "real-time stock",
     "team collaboration",
-    "integrated chat support"  
+    "chat"  
   ],
   "integrations": [],
   "screenshots": [
