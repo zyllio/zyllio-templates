@@ -19,5 +19,8 @@
   ],
   "screenshots": [  
     "https://zyllio.github.io/zyllio-templates/blank/preview1.png"  
-  ]
+  ],
+  "generator": {
+    "type": "airtable"
+  }
 }
