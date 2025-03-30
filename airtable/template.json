@@ -1,0 +1,23 @@
+{
+  "id": "airtable",
+  "name": "Airtable",
+  "url": "https://zyllio.app/apps/cdf270a880ae/index.html",
+  "owner": {
+    "name": "Zyllio team",
+    "email": "contact@zyllio.com",
+    "logo": "https://zyllio.com"
+  },
+  "description": "Create an application from yout Airtable database",
+  "longDescription": "Start from this template to magically get an application from your Airtable database",
+  "language": "en",
+  "categories": [
+    "productivity"    
+  ],
+  "features": [],
+  "integrations": [
+    "airtable"
+  ],
+  "screenshots": [  
+    "https://zyllio.github.io/zyllio-templates/blank/preview1.png"  
+  ]
+}

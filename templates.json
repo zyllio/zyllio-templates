@@ -35,6 +35,10 @@
     {
       "id": "quiz",
       "name": "Quiz"
+    },    
+    {
+      "id": "airtable",
+      "name": "Airtable"
     }    
   ]
 }
