@@ -1,26 +1,26 @@
 {
-  "id": "airtable",
-  "name": "Airtable",
-  "url": "https://zyllio.app/apps/134a411d0aee/index.html",
+  "id": "timetonic",
+  "name": "Timetonic",
+  "url": "https://zyllio.app/apps/e1409e9312f8/index.html",
   "owner": {
     "name": "Zyllio team",
     "email": "contact@zyllio.com",
     "logo": "https://zyllio.com"
   },
-  "description": "Create an application from your Airtable database",
-  "longDescription": "Start from this template to magically get an application from your Airtable database",
+  "description": "Create an application from your Timetonic database",
+  "longDescription": "Start from this template to magically get an application from your Timetonic database",
   "language": "en",
   "categories": [
     "productivity"    
   ],
   "features": [],
   "integrations": [
-    "airtable"
+    "timetonic"
   ],
   "screenshots": [  
     "https://zyllio.github.io/zyllio-templates/blank/preview1.png"  
   ],
   "generator": {
-    "type": "airtable"
+    "type": "timetonic"
   }
 }
