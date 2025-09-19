@@ -2,7 +2,8 @@
   "templates": [
     {
       "id": "blank",
-      "name": "Blank"
+      "name": "Blank",
+      "hidden": true
     },
     {
       "id": "dinner1",
