@@ -1,0 +1,29 @@
+{
+  "id": "stock-management",
+  "name": "Gestion de stock",
+  "url": "https://zyllio.app/apps/cf158cffce79/",
+  "owner": {
+    "name": "Zyllio team",
+    "email": "contact@zyllio.com",
+    "logo": "https://zyllio.com"
+  },
+  "description": "Une application de gestion de stock construite avec la communauté Zy'Stream",
+  "longDescription": "",
+  "language": "fr",
+  "categories": [
+    "logistics",
+    "inventory management",
+    "business tools"
+  ],
+  "features": [
+    "authentication",
+    "catalog",
+    "real-time stock",
+    "team collaboration",
+    "chat"
+  ],
+  "integrations": [],
+  "screenshots": [
+    "https://zyllio.github.io/zyllio-templates/stock-management/preview1.png"
+  ]
+}
