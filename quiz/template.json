@@ -7,9 +7,9 @@
     "email": "contact@zyllio.com",
     "logo": "https://zyllio.com"
   },
-  "description": "A dynamic quiz app that tests users' knowledge with a series of questions and tracks their scores.",
-  "longDescription": "Quiz challenges users with a variety of questions across different topics. Users can take quizzes, receive instant feedback, and track their scores over time. The app features multiple question types, leaderboards, and social sharing to enhance the quiz experience.",
-  "language": "en",
+  "description": "Une application de quiz dynamique qui teste les connaissances des utilisateurs avec une série de questions et suit leurs scores.",
+  "longDescription": "Quiz propose aux utilisateurs une variété de questions sur différents sujets. Ils peuvent répondre aux quiz, recevoir un retour instantané et suivre leurs scores au fil du temps. L'application propose plusieurs types de questions, des classements et des fonctionnalités de partage social pour enrichir l'expérience de quiz.",
+  "language": "fr",
   "categories": [
     "education",
     "entertainment"
