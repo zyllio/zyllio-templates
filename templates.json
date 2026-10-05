@@ -1,6 +1,11 @@
 {
   "templates": [
     {
+      "id": "mcp-empty",
+      "name": "MCP empty",
+      "hidden": true
+    },
+    {
       "id": "blank",
       "name": "Blank",
       "hidden": true
@@ -32,11 +37,11 @@
     {
       "id": "zinted",
       "name": "Zinted"
-    },    
+    },
     {
       "id": "quiz",
       "name": "Quiz"
-    },    
+    },
     {
       "id": "airtable",
       "name": "Airtable"
@@ -44,6 +49,6 @@
     {
       "id": "timetonic",
       "name": "Timetonic"
-    }    
+    }
   ]
 }
