@@ -1,13 +1,13 @@
 {
   "templates": [
     {
-      "id": "mcp-empty",
-      "name": "MCP empty",
+      "id": "blank",
+      "name": "Blank",
       "hidden": true
     },
     {
-      "id": "blank",
-      "name": "Blank",
+      "id": "mcp-empty",
+      "name": "MCP empty",
       "hidden": true
     },
     {
